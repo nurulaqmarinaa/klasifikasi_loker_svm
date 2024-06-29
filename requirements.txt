@@ -1,8 +1,8 @@
+streamlit >= 1.9.2
 numpy
 pandas
 nltk
 matplotlib
 scikit-learn
 seaborn
-scikit-learn
 sastrawi
