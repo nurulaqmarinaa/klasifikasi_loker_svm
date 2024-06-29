@@ -3,7 +3,6 @@ pandas
 nltk
 matplotlib
 scikit-learn
-pickle
 seaborn
 scikit-learn
 sastrawi
